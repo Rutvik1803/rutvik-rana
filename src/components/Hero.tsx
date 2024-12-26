@@ -15,7 +15,7 @@ const Hero = () => {
               <span className="relative">
                 <div className="w-3.5 rotate-[14deg] h-[4.5rem] absolute bottom-[1.1rem] -right-3 bg-gradient-to-r from-transparent from-60%  via-[#f7d486] to-[#f27a7d] hidden md:inline"></div>
                 <div className="w-full h-1 absolute bottom-4 -right-[3px] bg-gradient-to-r from-transparent from-20%  via-[#f7d486] to-[#f27a7d] hidden md:inline"></div>
-                frontend
+                software
               </span>{" "}
               <span className="relative">
                 <div className="w-full h-1 absolute left-3 bottom-4 bg-gradient-to-r from-[#c5f9d7]  via-[#f7d486] to-transparent to-60%  hidden md:inline"></div>
